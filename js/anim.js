@@ -1,15 +1,4 @@
 //----ANIMATIONS---//
-/*
-    "Declarative on-scroll reveal animations."
-
-/*=============================================================================
-
-    scrollReveal.js was inspired by cbpScroller.js (c) 2014 Codrops.
-
-    Licensed under the MIT license.
-    http://www.opensource.org/licenses/mit-license.php
-
-    scrollReveal.js (c) 2014 Julian Lloyd
 
 =============================================================================*/
 
